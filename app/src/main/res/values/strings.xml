@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TO-DO</string>
+    <string name="save">Save</string>
+    <string name="hey_buddy">Hey Buddy...</string>
+    <string name="todo">TODO</string>
+    <string name="to_do_list">TO-DO LIST</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="Save">Save</string>
+    <string name="this_is_simple_text">This is Simple Text</string>
+</resources>
